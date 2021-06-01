@@ -35,6 +35,7 @@ There are many different Game Modes, the most popular being `501` where everyone
 
 ### Score
 ![dartboard-scoring-guide_large](https://user-images.githubusercontent.com/32591853/120363119-11c3ca80-c30c-11eb-91bc-ffe09da22058.jpeg)
+
 image credit to https://shotdarts.com/
 
 The word score in these repositories means either the points achieved with a single dart or with all three darts of one turn.
