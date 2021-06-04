@@ -29,7 +29,7 @@ In this repository lives all the magic. It contains the scripts to control the c
 The calculated scores for each dart then get sent to the server.
 
 
-## :book: Glossary
+## :book: Dart Glossary
 ### Game
 A game means the total play between two players and consists of one or more [legs](#legs).
 ### Leg
